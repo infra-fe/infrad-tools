@@ -6,11 +6,11 @@
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/infra-fe/infrad-tools",
+  "author": "shengbo.ma@shopee.com",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ant-design/antd-tools.git"
+    "url": "git+ssh://git@github.com:infra-fe/infrad-tools.git"
   },
   "bugs": {
     "url": "http://github.com/ant-design/antd-tools/issues"
