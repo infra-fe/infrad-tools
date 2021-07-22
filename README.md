@@ -1,3 +1,3 @@
-# @infra-design/tools 🔧🔧🔧
+# @infra-fe/tools
 
 based on AntD
