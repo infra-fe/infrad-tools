@@ -1,6 +1,6 @@
 {
   "name": "@infra-fe/tools",
-  "version": "13.6.5",
+  "version": "13.6.6",
   "description": "tools for ant design",
   "keywords": [
     "react",
@@ -44,7 +44,7 @@
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
     "ansi-styles": "^4.0.0",
-    "autoprefixer": "^10.3.1",
+    "autoprefixer": "^9.8.6",
     "babel-jest": "^27.0.2",
     "babel-loader": "^8.0.6",
     "babel-plugin-import": "^1.12.0",
